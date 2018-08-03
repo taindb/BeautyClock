@@ -1,5 +1,5 @@
 # BeautyClock
-A simple project draw clock view by using Canvas and Kotlin. The project extend from https://github.com/aqua30/ClockView
+A simple project draw clock view by using Canvas and Kotlin.
 In this project, We've drawn a running clock with seconds, minutes and hours. The Clock view will load the time of device and display like a real clock
 
 <a href="https://imgur.com/ieID4pX"><img src="https://i.imgur.com/ieID4pX.gif" title="source: imgur.com" width="340" height="600"/></a>
